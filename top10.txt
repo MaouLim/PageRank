@@ -1,0 +1,10 @@
+www.runoob.com/cplusplus/cpp-classes-objects.html 0.00404404
+www.runoob.com/cplusplus/cpp-loops.html 0.00302096
+www.runoob.com/csharp/csharp-array.html 0.00299434
+www.runoob.com/cplusplus/cpp-operators.html 0.00262708
+www.runoob.com/cplusplus/cpp-decision.html 0.0025393
+www.runoob.com/cplusplus/cpp-arrays.html 0.00205815
+www.runoob.com/css/css-border.html 0.00193263
+www.runoob.com/csharp/csharp-jagged-arrays.html 0.0018653
+www.runoob.com/csharp/csharp-passing-arrays-to-functions.html 0.00179022
+www.runoob.com/css/css-font.html 0.00177624
